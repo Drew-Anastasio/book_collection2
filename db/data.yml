@@ -1,0 +1,26 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2023-09-05 15:06:03.379880000 Z
+    - 2023-09-05 15:06:03.379880000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Excited for Spring 2023
+    - 2023-09-05 15:07:54.628296000 Z
+    - 2023-09-05 15:07:54.628296000 Z
