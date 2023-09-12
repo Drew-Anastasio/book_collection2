@@ -1,2 +1,1 @@
-Hello my friend one again
-trying to push to main
+This should now be the same in main and dev
