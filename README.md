@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 # README
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
-
-change in readme
+application up and runnig
 
 Things you may want to cover:
 
@@ -25,7 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
 # book_collection2
 Repo that contains my book collection app
->>>>>>> a1c7c54c461653dd9b7c02ef5e5aad8449dfff3b
+
+
