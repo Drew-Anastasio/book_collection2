@@ -3,6 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+change in readme
+Deny this pull request
+
 Things you may want to cover:
 
 * Ruby version
@@ -22,3 +25,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# book_collection2
+Repo that contains my book collection app
