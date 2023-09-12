@@ -3,6 +3,8 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Hello this is a change for the participation quiz
+
 Things you may want to cover:
 
 * Ruby version
