@@ -88,3 +88,4 @@ production:
   database: test_app1_production
   username: test_app1
   password: <%= ENV["TEST_APP1_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
